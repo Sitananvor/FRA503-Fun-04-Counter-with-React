@@ -1,0 +1,28 @@
+.displayLayout {
+  min-width: 550px;
+}
+
+.logContainer {
+  background: rgba(17, 17, 17, 0.4);
+  border-radius: 20px;
+  padding: 20px;
+  height: 230px;
+  overflow-y: auto;
+  border: 1px solid rgb(177, 177, 177);
+}
+
+.logItem {
+  padding: 10px;
+  color: #bbcee8;
+  font-family: 'Courier New', monospace;
+  font-size: 1.1rem;
+}
+
+.logContainer::-webkit-scrollbar {
+  width: 7px;
+}
+
+.logContainer::-webkit-scrollbar-thumb {
+  background: rgba(205, 223, 51, 0.2);
+  border-radius: 10px;
+}

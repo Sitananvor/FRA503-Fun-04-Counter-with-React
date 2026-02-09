@@ -1,0 +1,76 @@
+.counterBox {
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    padding: 30px 20px;
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 40px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5),
+        inset 0 0 15px rgba(255, 255, 255, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.counterBox:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7),
+        0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+.title {
+    font-size: 2.2rem;
+    margin: 0;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.title-blue {
+    color: #7dd3fc;
+    text-shadow: 0 0 10px rgba(125, 211, 252, 0.5);
+}
+
+.title-pink {
+    color: #f9a8d4;
+    text-shadow: 0 0 10px rgba(249, 168, 212, 0.5);
+}
+
+.count {
+    font-size: 5.5rem;
+    font-weight: 700;
+    margin: 10px 0;
+    color: #f8fafc;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.buttonGroup {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.buttonAction {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    border-radius: 12px;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    outline: none;
+}
+
+.buttonAction:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.2);
+}
+
+.buttonAction:active {
+    transform: scale(0.9);
+    background: rgba(255, 255, 255, 0.3);
+}
