@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/css/main.c3be277c.css",
+    "main.js": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/main.ea660874.js",
+    "static/js/453.ee87fd06.chunk.js": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/453.ee87fd06.chunk.js",
+    "index.html": "/Sitananvor/FRA503-Fun-04-Counter-with-React/index.html",
+    "main.c3be277c.css.map": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/css/main.c3be277c.css.map",
+    "main.ea660874.js.map": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/main.ea660874.js.map",
+    "453.ee87fd06.chunk.js.map": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/453.ee87fd06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3be277c.css",
+    "static/js/main.ea660874.js"
+  ]
+}
