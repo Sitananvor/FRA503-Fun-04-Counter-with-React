@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/css/main.c3be277c.css",
-    "main.js": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/main.ea660874.js",
-    "static/js/453.ee87fd06.chunk.js": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/453.ee87fd06.chunk.js",
-    "index.html": "/Sitananvor/FRA503-Fun-04-Counter-with-React/index.html",
-    "main.c3be277c.css.map": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/css/main.c3be277c.css.map",
-    "main.ea660874.js.map": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/main.ea660874.js.map",
-    "453.ee87fd06.chunk.js.map": "/Sitananvor/FRA503-Fun-04-Counter-with-React/static/js/453.ee87fd06.chunk.js.map"
+    "main.css": "/FRA503-Fun-04-Counter-with-React/static/css/main.c3be277c.css",
+    "main.js": "/FRA503-Fun-04-Counter-with-React/static/js/main.5f0f5930.js",
+    "static/js/453.ee87fd06.chunk.js": "/FRA503-Fun-04-Counter-with-React/static/js/453.ee87fd06.chunk.js",
+    "index.html": "/FRA503-Fun-04-Counter-with-React/index.html",
+    "main.c3be277c.css.map": "/FRA503-Fun-04-Counter-with-React/static/css/main.c3be277c.css.map",
+    "main.5f0f5930.js.map": "/FRA503-Fun-04-Counter-with-React/static/js/main.5f0f5930.js.map",
+    "453.ee87fd06.chunk.js.map": "/FRA503-Fun-04-Counter-with-React/static/js/453.ee87fd06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3be277c.css",
-    "static/js/main.ea660874.js"
+    "static/js/main.5f0f5930.js"
   ]
 }
